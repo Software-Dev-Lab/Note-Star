@@ -1,4 +1,4 @@
 <h1 align="center">Welcome to YQ Note Start 👋</h1>
 <h1 align="center">
-  <img src="./YQ-Note-Start-logo.png"></img>
+  ![C-shiyong](https://github.com/user-attachments/assets/00ec36ff-d0b3-42b5-82eb-5297860d229e)
 </h1>
