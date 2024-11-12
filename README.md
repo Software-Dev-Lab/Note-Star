@@ -13,3 +13,5 @@
 [【Next.js 入门指南】5分钟创建你的第一个 Next.js 应用](https://hadoop.blog.csdn.net/article/details/141832178)
 
 [【实战教程】用 Next.js 和 shadcn-ui 打造现代博客平台](https://hadoop.blog.csdn.net/article/details/141832218)
+
+[Nextjs全栈详细开发教程，完整版](https://juejin.cn/post/7203180600818581563)
