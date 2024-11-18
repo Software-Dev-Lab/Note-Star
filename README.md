@@ -19,3 +19,7 @@
 [完美解决Github 2fa二次验证问题](https://blog.csdn.net/weixin_39246554/article/details/135388577)
 
 [el-table 给某一行定制背景色](https://blog.csdn.net/qq_52619560/article/details/131191880)
+
+## 2024-11-18
+
+[Monorepo：让你的项目脱胎换骨，既能代码复用，又能独立部署！](https://segmentfault.com/a/1190000045216948)
