@@ -23,3 +23,5 @@
 ## 2024-11-18
 
 [Monorepo：让你的项目脱胎换骨，既能代码复用，又能独立部署！](https://segmentfault.com/a/1190000045216948)
+
+[TypeScript+koa2+eslint搭建完整nodejs开发环境（自建脚手架）](https://segmentfault.com/a/1190000041372990)
