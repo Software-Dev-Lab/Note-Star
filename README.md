@@ -27,3 +27,5 @@
 [TypeScript+koa2+eslint搭建完整nodejs开发环境（自建脚手架）](https://segmentfault.com/a/1190000041372990)
 
 [什么是统一建模语言（UML）？](https://www.visual-paradigm.com/cn/guide/uml-unified-modeling-language/what-is-uml/)
+
+[五分钟带你了解啥是JWT](https://zhuanlan.zhihu.com/p/86937325)
