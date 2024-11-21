@@ -29,3 +29,5 @@
 [什么是统一建模语言（UML）？](https://www.visual-paradigm.com/cn/guide/uml-unified-modeling-language/what-is-uml/)
 
 [五分钟带你了解啥是JWT](https://zhuanlan.zhihu.com/p/86937325)
+
+[四万字符数带你使用 Vitepress 构建博客并部署到 github 平台](https://segmentfault.com/a/1190000044948735)
