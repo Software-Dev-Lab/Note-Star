@@ -33,3 +33,9 @@
 [四万字符数带你使用 Vitepress 构建博客并部署到 github 平台](https://segmentfault.com/a/1190000044948735)
 
 [前端单元测试、覆盖率测试工具Vitest入门指南](前端单元测试、覆盖率测试工具Vitest入门指南)
+
+[一篇彻底搞懂前端文件](https://blog.csdn.net/weixin_63443072/article/details/143202721)
+
+[前端文件相关总结](https://blog.csdn.net/lijiawei111/article/details/132594610)
+
+[前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://blog.csdn.net/qq_36380426/article/details/142828600)
