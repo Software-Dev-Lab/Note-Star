@@ -39,3 +39,5 @@
 [前端文件相关总结](https://blog.csdn.net/lijiawei111/article/details/132594610)
 
 [前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://blog.csdn.net/qq_36380426/article/details/142828600)
+
+[10 分钟带你构建monorepo架构，前端通用自动化 CI/CD 方案](https://pingan8787.blog.csdn.net/article/details/141275204?spm=1001.2014.3001.5502)
