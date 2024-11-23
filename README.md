@@ -31,3 +31,5 @@
 [五分钟带你了解啥是JWT](https://zhuanlan.zhihu.com/p/86937325)
 
 [四万字符数带你使用 Vitepress 构建博客并部署到 github 平台](https://segmentfault.com/a/1190000044948735)
+
+[前端单元测试、覆盖率测试工具Vitest入门指南](前端单元测试、覆盖率测试工具Vitest入门指南)
