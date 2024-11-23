@@ -41,3 +41,5 @@
 [前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://blog.csdn.net/qq_36380426/article/details/142828600)
 
 [10 分钟带你构建monorepo架构，前端通用自动化 CI/CD 方案](https://pingan8787.blog.csdn.net/article/details/141275204?spm=1001.2014.3001.5502)
+
+[markdown-it基本使用](https://openatomworkshop.csdn.net/66470193b12a9d168eb6e405.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6OTY2MDE0LCJleHAiOjE3MzI5NTI1NzksImlhdCI6MTczMjM0Nzc3OSwidXNlcm5hbWUiOiJtMF83Mjc3MzgzNyJ9.d2S98wr6ZsUpucAtNLzjxXAZdEu_1a4KPMtPIldsEIY&spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~activity-2-130050062-blog-142226011.235%5Ev43%5Epc_blog_bottom_relevance_base6&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~activity-2-130050062-blog-142226011.235%5Ev43%5Epc_blog_bottom_relevance_base6&utm_relevant_index=5)
